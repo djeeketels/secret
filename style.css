@@ -2,7 +2,7 @@
 
 /* Achtergrondafbeelding (verander URL naar jouw foto) */
 body {
-    background: url("/images/hearts.jpg") 
+    background: url("images/hearts.jpg") 
         no-repeat center center/cover;
     height: 100vh;
     margin: 0;
@@ -43,3 +43,4 @@ h1 {
     font-size: 1.1rem;
     padding: 12px 0;
 }
+
